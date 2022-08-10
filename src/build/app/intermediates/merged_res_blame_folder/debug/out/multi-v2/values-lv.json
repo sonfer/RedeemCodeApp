@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/sonferder/Projects/RedeemCodeApp/redeem_code_app/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
+            "outputFile": "/Users/sonferder/Projects/RedeemCodeApp/src/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
                     "source": "/Users/sonferder/.gradle/caches/transforms-3/04393dfca72b8fef2aa48792625c35f6/transformed/jetified-play-services-ads-20.6.0/res/values-lv/values.xml",
